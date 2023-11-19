@@ -40,7 +40,7 @@ may now proceed to calculate the mean of the other values:
 
 """
 from . import core
-from .core import *
+# from .core import *
 
 from . import extras
 from .extras import *
