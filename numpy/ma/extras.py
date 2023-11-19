@@ -29,6 +29,7 @@ from .core import (
     getmask, getmaskarray, make_mask_descr, masked, masked_array, mask_or,
     nomask, ones, sort, zeros, getdata, get_masked_subclass, dot
     )
+from _core import arrayprint
 
 import numpy as np
 from numpy import ndarray, array as nxarray
